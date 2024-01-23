@@ -2,8 +2,8 @@
 *.class
 
 #my SSH key
-id_ed25519.pub
-id_ed25519
+ssh_key.pub
+ssh_key
 
 # Log file
 *.log
