@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
 
+#my SSH key
+id_ed25519.pub
+id_ed25519
+
 # Log file
 *.log
 
